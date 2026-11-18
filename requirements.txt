@@ -1,5 +1,5 @@
 pinecone
-openai
+google-genai
 pandas
 numpy
 python-dotenv
