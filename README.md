@@ -101,8 +101,8 @@ Pinecone/
 
 ### Bước 1: Clone kho mã nguồn về máy
 ```bash
-git clone https://github.com/Hoanglovecode/RAG-.git
-cd RAG-
+git clone https://github.com/Hoanglovecode/--RAG--Chatbot--With--Pinecone--.git
+cd --RAG--Chatbot--With--Pinecone--
 ```
 
 ### Bước 2: Tạo và kích hoạt môi trường ảo
